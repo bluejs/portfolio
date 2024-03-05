@@ -1,0 +1,44 @@
+{
+    "contact_us": {
+        "title": "Contact us",
+        "subtitle": "We listen to you",
+        "info": "Contact information",
+        "message": "Send us a message"
+    },
+    "address": {
+        "name": "name",
+        "ob_organization": "organization",
+        "address": "address",
+        "ob_address": "No. xx, xx Road",
+        "telephone": "telephone number",
+        "telephone_no": "138 8888 8888",
+        "email": "Email",
+        "website": "website"
+    },
+    "message": {
+        "subject": "subject",
+        "reason_placeholder": "The reason why you contacted us",
+        "email_placeholder": "Your email address",
+        "email": "Email",
+        "user_message": "Message",
+        "user_message_placeholder": "What can we do for you",
+        "google_recaptcha_title": "We use Google Recaptcha to prevent misuse of this form.",
+        "recaptcha_info": "Google collects information about you to \"verify\" that you are human.",
+        "info_includes": "Contains the following information",
+        "info_ip_location": "Your IP, which can be used to determine your location and cross-reference your identity with other websites you have visited.",
+        "info_cookies": "All cookies placed by Google in the past 6 months.",
+        "info_mouse_clicks": "How many times you clicked the mouse (or clicks if on a touch device).",
+        "info_css": "CSS information of the page",
+        "info_date": "date",
+        "info_browser_lang": "Your browser language",
+        "info_plugins": "Any plug-ins you have installed on your browser",
+        "info_js": "Javascript object on the page",
+        "recaptcha_authorization": "Do you authorize us to load Google Recaptcha and therefore allow Google to collect this information?",
+        "recaptcha_authorization_yes": "Yes, I authorize you to load Google Recaptcha",
+        "or": "or",
+        "recaptcha_authorization_no": "No, please send email",
+        "tick_box": "Please check this box",
+        "clear_form": "Clear the form",
+        "submit": "submit"
+    }
+}

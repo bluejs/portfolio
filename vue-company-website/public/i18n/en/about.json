@@ -1,0 +1,20 @@
+{
+    "about_us": {
+        "title": "About us",
+        "subtitle": "Technology brings <span class=\"has-text-primary\">a better tomorrow</span>.",
+        "description": "We are a team of engineers, designers, hackers, activists, and information security experts dedicated to building human-centered, responsible, sustainable, and equitable technologies for a more prosperous tomorrow.",
+        "description_founded": "We do this by placing the best human qualities of kindness, compassion, tolerance, empathy and cooperation at the core of everything we do.",
+        "description_funded": "We successfully crowdfunded <span class=\"has-text-logo\">Okuna</span> in September 2018 and are currently in alpha testing with over 3,500 members.",
+        "accomplish_how": "Why social network?",
+        "read_our_manifesto": "Read our manifesto",
+        "humans_behind_ob": "people",
+        "work_with_us": "Want to work with us?",
+        "visit_jobs_page": "Visit our jobs page",
+        "our_ambassadors": "Our Ambassadors",
+        "our_contributors": "Our contributors",
+        "our_backers": "...and the 3,000+ backers who make this project possible!",
+        "ambassadors_desc": "People help us spread the word and support everything we do.",
+        "become_ambassadors": "Want to become an ambassador?",
+        "contact_us": "Contact us"
+    }
+}

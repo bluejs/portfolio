@@ -1,0 +1,44 @@
+{
+    "contact_us": {
+        "title": "联系我们",
+        "subtitle": "我们倾听你的声音",
+        "info": "联系信息",
+        "message": "给我们发个消息"
+    },
+    "address": {
+        "name": "名字",
+        "ob_organization": "组织",
+        "address": "地址",
+        "ob_address": "xx路 xx号",
+        "telephone": "电话号码",
+        "telephone_no": "138 8888 8888",
+        "email": "Email",
+        "website": "网站"
+    },
+    "message": {
+        "subject": "主题",
+        "reason_placeholder": "你联系我们的原因",
+        "email_placeholder": "您的邮件地址",
+        "email": "Email",
+        "user_message": "消息",
+        "user_message_placeholder": "我们可以为你做什么",
+        "google_recaptcha_title": "我们使用Google Recaptcha以防止滥用此表格。",
+        "recaptcha_info": "Google 收集有关您的信息是为了“验证”您是人类。",
+        "info_includes": "包含以下信息",
+        "info_ip_location": "您的 IP，可用于确定您的位置并将您的身份与您访问过的其他网站进行交叉引用。",
+        "info_cookies": "Google 在过去 6 个月内放置的所有 cookie。",
+        "info_mouse_clicks": "您点击了多少次鼠标（如果在触摸设备上则点击了多少次）。",
+        "info_css": "页面的CSS信息",
+        "info_date": "日期",
+        "info_browser_lang": "您的浏览器语言",
+        "info_plugins": "您在浏览器上安装的任何插件",
+        "info_js": "页面上的 Javascript 对象",
+        "recaptcha_authorization": "您是否授权我们加载 Google Recaptcha 并因此允许 Google 收集此信息？",
+        "recaptcha_authorization_yes": "是，我授权您加载 Google Recaptcha",
+        "or": "或者",
+        "recaptcha_authorization_no": "否，请发送电子邮件",
+        "tick_box": "请勾选此框",
+        "clear_form": "清空表单",
+        "submit": "提交"
+    }
+}

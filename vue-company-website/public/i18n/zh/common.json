@@ -1,0 +1,50 @@
+{
+    "header": {
+        "home": "首页",
+        "about_us": "关于我们",
+        "manifesto": "宣言",
+        "contact_us": "联系我们",
+        "jobs": "职位",
+        "faq": "常见问题",
+        "press": "推动",
+        "language": "语言",
+        "blog": "博客",
+        "angel": "天使"
+    },
+    "footer": {
+        "report_vulnerability": "报告漏洞",
+        "twitter": "Twitter",
+        "github": "GitHub",
+        "reddit": "Reddit",
+        "gitter": "Gitter",
+        "linked_in": "LinkedIn",
+        "product_hunt": "Product Hunt",
+        "facebook": "Facebook",
+        "the_ob_organization": "Okuna",
+        "privacy_policy": "隐私策略",
+        "made_with": "制作于 ",
+        "in_europe": " 欧洲",
+        "all_rights_reserved": "版权所有"
+    },
+    "hud": {
+        "share": "分享",
+        "share_fb": "分享到Facebook",
+        "share_twitter": "分享到Twitter",
+        "share_email": "通过e-mail分享",
+        "share_linkedin": "分享到LinkedIn",
+        "share_wa": "分享到Whatsapp",
+        "share_title": "一个共创美好未来的社交网络。",
+        "share_description": "诚实、个性化、保护隐私并遵守道德规范。",
+        "share_quote": "将于2024推出"
+    },
+    "meta": {
+        "home": "首页",
+        "about-us": "关于我们",
+        "contact-us": "联系我们",
+        "faq": "常见问题",
+        "angel": "天使",
+        "getapp": "获取App链接",
+        "vulnerability-report": "报告漏洞",
+        "manifesto": "宣言"
+    }
+}

@@ -1,0 +1,139 @@
+
+/*-------------   Color variabel  --------------*/
+:root {
+	--color__bg: #f4feff;
+	--color__heading : #2b044d;
+	--slicknav__font : #0e0807;
+	--font__color1 : #707b8e;
+	--header__ul : #450b78;
+	--features__caption:hsl(273, 29%, 13%);
+	--card__background :#fbf9ff;
+	--header__shadow :rgba(25, 25, 25, 0.1);
+	--hover__color :#8f1bdc;
+	--blogcard__background :#fbf9ff;
+	--border__color :  #e5e6e9;
+	@media screen {
+	  &[data-theme="dark"] {
+		--color__bg: #171941;
+		--color__heading: #ebf8e2;
+		--slicknav__font : #fff;
+		--font__color1 : #c1c9d2;
+		--header__ul : #ffffff;
+		--features__caption:hsl(270, 40%, 98%);
+		--card__background :#1f2251;
+		--header__shadow :rgba(247, 243, 243, 0.1);
+		--hover__color : #11cdef;
+		--blogcard__background :#1f2251;
+		--border__color :  #2b3553;
+	  }
+	}
+  }
+//Colors
+$white: #ffffff;
+$black: #16161a;
+$gray:#f7f7fd;
+
+// font-color
+$heading-color:var(--color__heading);
+$header-ul-color :var(--header__ul);
+$slicknav-font : var(--slicknav__font);
+$card__background : var(--card__background);
+$header-shadow : var(--header__shadow);
+//Theme color
+$theme-color: #8f1bdc;
+$theme-color2: #222222;
+$theme-color3: #f27420;
+$theme-color4: #ff3500;
+
+
+$body-text-color: #555;
+$hr-border-color:#eceff8;
+
+// btn and Section color
+
+$btn_bg: #ff5c97;
+
+$btn_hover: #dca73a;
+$section_bg: #f7f7f7;
+$section_bg_1: #454545;
+$heading_color2: #ff8b23;
+
+
+
+
+
+.white-bg{
+	background: #ffffff;
+}
+.gray-bg{
+	background: #f5f5f5;
+}
+
+$gray-color: #bebebe;
+$gray-color-2: #bdbdbd;
+
+
+
+$gray-color3:#5c5c5c;
+$white_color:#fff;
+
+// font color
+$font_color1: var(--font__color1);
+$features-caption:var(--features__caption);
+$theme-toggle: var(--color__bg);
+$features-background : var(--color__bg);
+
+$border_color: #fdcb9e;
+$footer_bg: #303030;
+$sidebar_bg: #fbf9ff;
+
+
+// bg
+$brand-bg: #f1f4fa;
+$testimonial-bg:#f9fafc;
+
+
+// Soft color
+$black-soft:#7e7e7e;
+
+// Section Bg color
+$blue-bg1:#00163e;
+
+
+
+
+/*-------------Color include--------------*/
+
+
+/*-- Background color---*/
+
+.gray-bg {
+	background: $gray;
+}
+.white-bg {
+	background:$white;
+}
+.black-bg {
+	background: $black;
+}
+.theme-bg {
+	background:$theme-color;
+}
+.brand-bg{
+	background: $brand-bg;
+}
+.testimonial-bg{
+	background: $testimonial-bg;
+}
+
+
+/*--- color------*/
+.white-color {
+	color: $white;
+}
+.black-color {
+	color: $black;
+}
+.theme-color {
+	color: $theme-color;
+}

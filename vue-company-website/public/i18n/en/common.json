@@ -1,0 +1,50 @@
+{
+    "header": {
+        "home": "Home",
+        "about_us": "About us",
+        "manifesto": "Manifesto",
+        "contact_us": "Contact us",
+        "jobs": "position",
+        "faq": "Frequently Asked Questions",
+        "press": "push",
+        "language": "language",
+        "blog": "blog",
+        "angel": "angel"
+    },
+    "footer": {
+        "report_vulnerability": "Report a vulnerability",
+        "twitter": "Twitter",
+        "github": "GitHub",
+        "reddit": "Reddit",
+        "gitter": "Gitter",
+        "linked_in": "LinkedIn",
+        "product_hunt": "Product Hunt",
+        "facebook": "facebook",
+        "the_ob_organization": "Okuna",
+        "privacy_policy": "Privacy Policy",
+        "made_with": "Made in ",
+        "in_europe": "Europe",
+        "all_rights_reserved": "Copyright"
+    },
+    "hud": {
+        "share": "share",
+        "share_fb": "Share to Facebook",
+        "share_twitter": "Share to Twitter",
+        "share_email": "Share via e-mail",
+        "share_linkedin": "Share to LinkedIn",
+        "share_wa": "Share to Whatsapp",
+        "share_title": "A social network for a better future.",
+        "share_description": "Honest, personal, private and ethical.",
+        "share_quote": "To be launched in 2024"
+    },
+    "meta": {
+        "home": "Home",
+        "about-us": "about us",
+        "contact-us": "Contact us",
+        "faq": "Frequently Asked Questions",
+        "angel": "angel",
+        "getapp": "Get App link",
+        "vulnerability-report": "Report a vulnerability",
+        "manifesto": "manifesto"
+    }
+}

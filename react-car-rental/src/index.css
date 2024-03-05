@@ -1,0 +1,6 @@
+@import url("/src/assets/fonts/fonts.css");
+
+body,
+#root {
+  background: #f3f3f3;
+}

@@ -1,0 +1,20 @@
+{
+    "about_us": {
+        "title": "关于我们",
+        "subtitle": "技术带来<span class=\"has-text-primary\">更美好的明天</span>。",
+        "description": "我们是一支由工程师、设计师、黑客、活动家和信息安全专家组成的团队，致力于构建以人为本、负责任、可持续和公平的技术，以实现更加繁荣的明天。",
+        "description_founded": "为此，我们将善良、同情心、宽容、同理心和合作等人类最好的品质作为我们所做一切的核心。",
+        "description_funded": "我们于 2018 年 9 月成功为 <span class=\"has-text-logo\">Okuna</span> 众筹，目前正在进行 3,500 多名会员的 alpha 测试。",
+        "accomplish_how": "为什么是社交网络？",
+        "read_our_manifesto": "阅读我们的宣言",
+        "humans_behind_ob": "人们",
+        "work_with_us": "想与我们合作？",
+        "visit_jobs_page": "访问我们的职位页面",
+        "our_ambassadors": " 我们的大使",
+        "our_contributors": " 我们的贡献者",
+        "our_backers": "...以及 3,000 多名支持者使这个项目成为可能！",
+        "ambassadors_desc": "人们帮助我们传播信息并支持我们所做的一切。",
+        "become_ambassadors": "想成为大使吗？",
+        "contact_us": "联系我们"
+    }
+}
